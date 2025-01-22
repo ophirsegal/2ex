@@ -1,0 +1,10 @@
+[
+    {
+        "postData": "new post 1",
+        "senderId": "Aviv"
+    },
+    {
+        "postData": "new post 2",
+        "senderId": "Adam"
+    }
+]
