@@ -1,0 +1,12 @@
+[
+    {
+        "email": "ophir@gmail.com",
+        "password": "Aa123456",
+        "favPat": "Dog"
+    },
+    {
+        "email": "lin@gmail.com",
+        "password": "Bb123456",
+        "favPat": "Dolphin"
+    }
+]

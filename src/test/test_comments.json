@@ -1,0 +1,17 @@
+[
+    {
+        "userId": "ophir",
+        "commentData": "new comment 1",
+        "postId": "1"
+    },
+    {
+        "userId": "lin",
+        "commentData": "new comment 2",
+        "postId": "2"
+    },
+    {
+        "userId": "Eliav",
+        "commentData": "new comment 3",
+        "postId": "3"
+    }
+]
